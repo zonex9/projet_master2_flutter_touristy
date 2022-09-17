@@ -15,10 +15,10 @@ Un exemple de jeux de données de l'application : https://github.com/zonex9/proj
 
 Avant de démarrer l'application, il faut s'assurer que tous les packages ont été bien installées:
 
-Installer Flutter : https://docs.flutter.dev/get-started/install
-Installer Android studio : https://developer.android.com/studio?hl=fr&gclid=CjwKCAjw4JWZBhApEiwAtJUN0JxtPT1hOLx4cMb0RHY71cx29I3XZYcA0qNnvohBLu2lQ-ak4oNOUhoCiUMQAvD_BwE&gclsrc=aw.ds
+- Installer Flutter : https://docs.flutter.dev/get-started/install
+- Installer Android studio : https://developer.android.com/studio?hl=fr&gclid=CjwKCAjw4JWZBhApEiwAtJUN0JxtPT1hOLx4cMb0RHY71cx29I3XZYcA0qNnvohBLu2lQ-ak4oNOUhoCiUMQAvD_BwE&gclsrc=aw.ds
 
-Après installation, lancer la commande suivante  :  flutter pub get
+- Après installation, lancer la commande suivante  :  flutter pub get
 
 ## Démarrer l'application avec un émulateur android studio :
 
