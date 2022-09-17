@@ -18,7 +18,7 @@ Avant de démarrer l'application, il faut s'assurer que tous les packages ont é
 - Installer Flutter : https://docs.flutter.dev/get-started/install
 - Installer Android studio : https://developer.android.com/studio?hl=fr&gclid=CjwKCAjw4JWZBhApEiwAtJUN0JxtPT1hOLx4cMb0RHY71cx29I3XZYcA0qNnvohBLu2lQ-ak4oNOUhoCiUMQAvD_BwE&gclsrc=aw.ds
 
-- Après installation, lancer la commande suivante  :  flutter pub get
+- Après installation, importer le projet puis lancer la commande suivante  :  flutter pub get
 
 ## Démarrer l'application avec un émulateur android studio :
 
