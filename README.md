@@ -1,16 +1,8 @@
-# projet_annuel
+# Resumé
 
-A new Flutter project.
+- Projet destiné au tourisme Francais pour les gens qui veulent découvrir la région PACA ( Toulon, Nice, Marseille et Cannes )
+- Projet réalisé dans le cadre de Mastère Management de Projet Digital à EFFICOM Toulon
 
-## Getting Started
+## Technologies
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Le projet est développé avec le Framework Flutter et le langage Dart en utilisant la base de données Firebase de Google
